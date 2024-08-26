@@ -1,5 +1,7 @@
 # Google Data Analytics Professional Certificate - Case Study 1
 
+## :chart_with_upwards_trend: Full Case Study Attached as PDF
+
 ### :page_with_curl: Scenario 
 You are a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share
 company in Chicago. The director of marketing believes the company’s future success
